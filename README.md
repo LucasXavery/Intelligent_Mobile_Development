@@ -14,7 +14,7 @@
 
 
 ## Week 5. Implicit Intents
-
+https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/master/open%20website-implicit.PNG
 
 ## Week 6. User Interaction
 
