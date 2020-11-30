@@ -9,7 +9,7 @@
 
 ## Week 3. Layouts and resources for the UI
 
-<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/HelloToast/hello%20toast.jpgpg" >
+<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/HelloToast/hello%20toast.jpg" >
 
 <img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/HelloToast/hello%20toast1.jpg" >
 
