@@ -15,14 +15,16 @@
 
 ## Week 2. Get started
 
+<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/HelloWorld/hello.PNG" style="width:128px;height:128px;">
+
 
 ## Week 3. Layouts and resources for the UI
 
-<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/HelloToast/hello%20toast.jpg" >
+<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/HelloToast/hello%20toast.jpg" style="width:128px;height:128px;">
 
-<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/HelloToast/hello%20toast1.jpg" >
+<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/HelloToast/hello%20toast1.jpg" style="width:128px;height:128px;" >
 
-<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/HelloToast/hello%20toast2.jpg" >
+<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/HelloToast/hello%20toast2.jpg" style="width:128px;height:128px;" >
 
 
 
@@ -32,7 +34,7 @@
 
 ## Week 5. Implicit Intents
 
-<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/master/open%20website-implicit.PNG" >
+<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/master/open%20website-implicit.PNG" style="width:128px;height:128px;">
 
 
 
