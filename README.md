@@ -31,6 +31,14 @@
 
 ## Week 4. Activities and intents
 
+<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/TwoActivities/two.PNG" style="width:128px;height:128px;">
+
+<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/TwoActivities/two1.PNG" style="width:128px;height:128px;" >
+
+<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/TwoActivities/two2.PNG" style="width:128px;height:128px;" >
+
+<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/TwoActivities/two3.PNG" style="width:128px;height:128px;" >
+
 
 ## Week 5. Implicit Intents
 
