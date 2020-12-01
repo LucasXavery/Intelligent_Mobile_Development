@@ -93,7 +93,11 @@
 
 <h3>Notifications</h3>
 
-<img src="#https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/DroidCafe/droidcafeinput2.PNG" style="width:128px;height:128px;">
+<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/NotifyMe/notify.PNG" style="width:128px;height:128px;">
+
+<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/NotifyMe/notify1.png" style="width:128px;height:128px;">
+
+<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/NotifyMe/notify2.PNG" style="width:128px;height:128px;">
 
 
 ## Week 11. Shared Preferences
