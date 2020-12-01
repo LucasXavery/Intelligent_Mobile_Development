@@ -100,6 +100,13 @@
 
 <h3>Shared Preferences</h3>
 
-<img src="#https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/DroidCafe/droidcafeinput2.PNG" style="width:128px;height:128px;">
-
+<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/HelloSharedPrefs/sharedpref1.PNG" style="width:128px;height:128px;">
+                                                                                                                                             
+<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/HelloSharedPrefs/sharedpref2.PNG" style="width:128px;height:128px;">
+                                                                                                                                             
+<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/HelloSharedPrefs/sharedpref3.PNG" style="width:128px;height:128px;">        
+                                                                                                                                             
+<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/HelloSharedPrefs/sharedpref4.PNG" style="width:128px;height:128px;">
+                                                                                                                                             
+<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/HelloSharedPrefs/sharedpref5.PNG" style="width:128px;height:128px;">
 
