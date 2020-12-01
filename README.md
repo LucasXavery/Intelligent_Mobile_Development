@@ -20,7 +20,7 @@
 
 ## Week 3. Layouts and resources for the UI
 
-<h3>first interactive UI</h3>
+<h3>First interactive UI</h3>
 
 <img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/HelloToast/hello%20toast.jpg" style="width:128px;height:128px;">
 
@@ -67,14 +67,39 @@
 
 ## Week 7. User Interaction
 
+ <h3>User navigation</h3>
+ 
+ <img src="#https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/DroidCafe/droidcafeinput.PNG" style="width:128px;height:128px;">
+  
+ <h3>RecyclerView</h3>
+ 
+ <img src="#https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/DroidCafe/droidcafeinput2.PNG" style="width:128px;height:128px;">
+
 
 ## Week 8. Material Design
+
+<h3>Cards and colors</h3>
+
+<img src="#https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/DroidCafe/droidcafeinput2.PNG" style="width:128px;height:128px;">
 
 
 ## Week 9. Background Tasks
 
+<h3>AsyncTask and AsyncTaskLoader</h3>
+
+<img src="#https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/DroidCafe/droidcafeinput2.PNG" style="width:128px;height:128px;">
 
 ## Week 10. Notifications
 
+<h3>Notifications</h3>
+
+<img src="#https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/DroidCafe/droidcafeinput2.PNG" style="width:128px;height:128px;">
+
 
 ## Week 11. Shared Preferences
+
+<h3>Shared Preferences</h3>
+
+<img src="#https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/DroidCafe/droidcafeinput2.PNG" style="width:128px;height:128px;">
+
+
