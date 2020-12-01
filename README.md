@@ -20,8 +20,11 @@
 
 ## Week 3. Layouts and resources for the UI
 
+<h3>first interactive UI</h3>
+
 <img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/HelloToast/hello%20toast.jpg" style="width:128px;height:128px;">
 
+<h3>The layout editor</h3>
 <img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/HelloToast/hello%20toast1.jpg" style="width:128px;height:128px;" >
 
 <img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/HelloToast/hello%20toast2.jpg" style="width:128px;height:128px;" >
@@ -30,6 +33,8 @@
 
 
 ## Week 4. Activities and intents
+
+<h3>Activities and intents</h3>
 
 <img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/TwoActivities/two.PNG" style="width:128px;height:128px;">
 
@@ -42,11 +47,22 @@
 
 ## Week 5. Implicit Intents
 
+<h3>Implicit Intents</h3>
+
 <img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/master/open%20website-implicit.PNG" style="width:128px;height:128px;">
 
 
-
 ## Week 6. User Interaction
+
+  <h3>Clickable images</h3>
+  
+  <img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/DroidCafe/droidcafe.PNG" style="width:128px;height:128px;">
+  
+  <h3>Input controls</h3>
+  
+  <img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/DroidCafe/droidcafeinput.PNG" style="width:128px;height:128px;">
+  
+  <img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/DroidCafe/droidcafeinput2.PNG" style="width:128px;height:128px;">
 
 
 ## Week 7. User Interaction
