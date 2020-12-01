@@ -80,7 +80,7 @@
 
 <h3>Cards and colors</h3>
 
-<img src="#https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/DroidCafe/droidcafeinput2.PNG" style="width:128px;height:128px;">
+<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/MaterialMe/materialme.PNG" style="width:128px;height:128px;">
 
 
 ## Week 9. Background Tasks
