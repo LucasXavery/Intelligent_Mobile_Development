@@ -73,7 +73,7 @@
   
  <h3>RecyclerView</h3>
  
- <img src="#https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/DroidCafe/droidcafeinput2.PNG" style="width:128px;height:128px;">
+ <img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/RecyclerView/recyclerview.png">
 
 
 ## Week 8. Material Design
