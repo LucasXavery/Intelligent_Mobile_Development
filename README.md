@@ -87,7 +87,7 @@
 
 <h3>AsyncTask and AsyncTaskLoader</h3>
 
-<img src="#https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/DroidCafe/droidcafeinput2.PNG" style="width:128px;height:128px;">
+<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/WhoWroteIt/whowroteit.pngG" style="width:128px;height:128px;">
 
 ## Week 10. Notifications
 
