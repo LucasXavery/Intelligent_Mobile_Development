@@ -40,9 +40,9 @@
 
 <img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/TwoActivities/two1.PNG" width="400" height="600">
 
-<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/TwoActivities/two2.PNG" width="400" height="600" >
+<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/TwoActivities/two2.PNG" width="400" height="600">
 
-<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/TwoActivities/two3.PNG" style=width="400" height="600">
+<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/TwoActivities/two3.PNG" width="400" height="600">
 
 
 ## Week 5. Implicit Intents
