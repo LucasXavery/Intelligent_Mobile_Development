@@ -25,9 +25,9 @@
 <img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/HelloToast/hello%20toast.jpg" width="400" height="600">
 
 <h3>The layout editor</h3>
-<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/HelloToast/hello%20toast1.jpg" width="400" height="600">
+<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/HelloToast/hello%20toast1.jpg" width="600" height="400">
 
-<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/HelloToast/hello%20toast2.jpg" width="400" height="600">
+<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/HelloToast/hello%20toast2.jpg" width="600" height="400">
 
 
 
