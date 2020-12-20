@@ -108,9 +108,9 @@
                                                                                                                                              
 <img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/HelloSharedPrefs/sharedpref2.PNG" width="400" height="600">
                                                                                                                                              
-<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/HelloSharedPrefs/sharedpref3.PNG" width="400" height="600">        
+<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/HelloSharedPrefs/sharedpref3.PNG" width="600" height="400">        
                                                                                                                                              
 <img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/HelloSharedPrefs/sharedpref4.PNG" width="400" height="600">
                                                                                                                                              
-<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/HelloSharedPrefs/sharedpref5.PNG" width="400" height="600">
+<img src="https://github.com/LucasXavery/Intelligent_Mobile_Development/blob/HelloSharedPrefs/sharedpref5.PNG" width="600" height="400">
 
